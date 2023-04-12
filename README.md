@@ -16,12 +16,19 @@ Term: Spring 2023
 	
 
 **Contribution statement**:
-+ Liang Hu:
-	+ 
++ Liang Hu
+	+  Cleaned and preproccessed the data;
+	+  Write A6-subroutine partition function;
+	+  Write A6-delta function and A6-LM model.
 + Junhan Huang
+ 	+ Rebuilt A4-DM & DM-sen models.
 + Chenbohan Zhang
+	+ Rebuilt A4-DM & DM-sen models.
 + Xueyi Zhang
+	+ Prepared presentation materials.
 + Wenchang Zhu
+	+ Preproccessed the data;
+	+ Write A6-delta function and A6-LPS model.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
